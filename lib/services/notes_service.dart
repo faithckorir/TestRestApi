@@ -9,7 +9,7 @@ class NotesService {
           noteID: "1",
           createDateTime: DateTime.now(),
           latestEditDateTime: DateTime.now(),
-          noteTitle: "Note 1"
+          noteTitle: "Nogte 1"
       ),
       new NoteForListing(
           noteID: "2",
